@@ -1,3 +1,5 @@
+https://docs.cs50.net/2018/x/psets/1/cash/cash.html
+
 Implement a program that calculates the minimum number of coins required to give a user change.
 Assume that the only coins available are quarters (25¢), dimes (10¢), nickels (5¢), and pennies (1¢).
 
