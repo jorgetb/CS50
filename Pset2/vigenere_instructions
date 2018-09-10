@@ -1,0 +1,7 @@
+https://docs.cs50.net/2018/x/psets/2/vigenere/vigenere.html
+
+Implement a program that encrypts messages using Vigenère’s cipher, per the below.
+
+$ ./vigenere ABC
+plaintext:  HELLO
+ciphertext: HFNLP
